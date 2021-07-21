@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruYumWebApi", "TruYumWebApi\TruYumWebApi.csproj", "{98F5F88B-725A-423A-BA32-5052DB4A86DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TruYumRepository", "TruYumRepository\TruYumRepository.csproj", "{10F40D13-0E01-4406-B975-283F35BADC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98F5F88B-725A-423A-BA32-5052DB4A86DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98F5F88B-725A-423A-BA32-5052DB4A86DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98F5F88B-725A-423A-BA32-5052DB4A86DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98F5F88B-725A-423A-BA32-5052DB4A86DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F40D13-0E01-4406-B975-283F35BADC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F40D13-0E01-4406-B975-283F35BADC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F40D13-0E01-4406-B975-283F35BADC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F40D13-0E01-4406-B975-283F35BADC77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B53FA40-6186-43E3-A864-C67FE786FA6A}
+	EndGlobalSection
+EndGlobal
